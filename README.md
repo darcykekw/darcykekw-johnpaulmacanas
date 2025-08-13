@@ -5,7 +5,7 @@
 **NAME: DARCY JAY T. CLERIGO**
 
 
-**EMAIL: darcyclerigo25@gmail.com**
+**EMAIL**: darcyclerigo25@gmail.com
 
 <a href="https://www.facebook.com/share/16A5m5e3pM/" target="_blank">
   <img src="img/Facebook_black.png" alt="Facebook Icon" width="60" style="border-radius:10%">
@@ -19,7 +19,7 @@
 **NAME: JOHN PAUL MACANAS**
 
 
-**EMAIL: jpmacanas123@gmail.com**
+**EMAIL**: jpmacanas123@gmail.com
 
 <a href="https://www.facebook.com/share/1EpVmtkms8/" target="_blank">
   <img src="img/Facebook_black.png" alt="Facebook Icon" width="60" style="border-radius:10%">
