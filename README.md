@@ -2,7 +2,7 @@
 
 <img src="img/darcgit.jpg" alt="DARCY CLERIGO" width="150" style="border-radius:50%"> 
 
-**NAME: DARCY JAY T. CLERIGO**
+**NAME**: DARCY JAY T. CLERIGO
 
 
 **EMAIL**: darcyclerigo25@gmail.com
@@ -16,7 +16,7 @@
 
 <img src="img/1000534991.png" alt="John Paul Macanas" width="150" style="border-radius:50%">
 
-**NAME: JOHN PAUL MACANAS**
+**NAME**: JOHN PAUL MACANAS
 
 
 **EMAIL**: jpmacanas123@gmail.com
