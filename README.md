@@ -15,5 +15,5 @@
 ![WebsiteProjectPicture3](img/WebsiteProjectPicrture3.png)
 ![WebsiteProjectPicture4](img/WebsiteProjectPicrture4.png)
 
-## About Authors
+## About the Authors
 > This project was created by Darcy & Paul Team as a website for CozyCup Café. The goal was to create an inviting online presence that reflects the café's warm and cozy atmosphere while providing essential information to customers.
